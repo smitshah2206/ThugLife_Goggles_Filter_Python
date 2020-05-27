@@ -1,0 +1,2 @@
+# ThughLife_Goggles_Filter_Python
+The Thuglife filter has a special effect that allows users to put glasses on their eyes while taking a photo. It is also use as a  Meme Generator is a flexible tool for many purposes. By uploading custom images and using all the customizations, you can design many creative works including posters, banners, advertisements, and other custom graphics. People are also made to see special effects on their faces.This project is designed to make people happy.
